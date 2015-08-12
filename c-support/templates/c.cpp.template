@@ -98,7 +98,7 @@ class |CLASSNAME|
     |CLASSNAME| ( const |CLASSNAME| &other );   /* copy constructor */
     ~|CLASSNAME| ();                            /* destructor       */
 
-    |CLASSNAME|& operator = ( const |CLASSNAME| &other ); /* assignment operator */
+    |CLASSNAME|& operator = ( const |CLASSNAME| &other ); /* assignment */
 
   protected:
 
